@@ -1,0 +1,15 @@
+C:\Users\aleks\OneDrive\Рабочий стол\Seminar_8_C#\DZ_54\bin\Debug\net6.0\DZ_54.exe
+C:\Users\aleks\OneDrive\Рабочий стол\Seminar_8_C#\DZ_54\bin\Debug\net6.0\DZ_54.deps.json
+C:\Users\aleks\OneDrive\Рабочий стол\Seminar_8_C#\DZ_54\bin\Debug\net6.0\DZ_54.runtimeconfig.json
+C:\Users\aleks\OneDrive\Рабочий стол\Seminar_8_C#\DZ_54\bin\Debug\net6.0\DZ_54.dll
+C:\Users\aleks\OneDrive\Рабочий стол\Seminar_8_C#\DZ_54\bin\Debug\net6.0\DZ_54.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\Seminar_8_C#\DZ_54\obj\Debug\net6.0\DZ_54.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Seminar_8_C#\DZ_54\obj\Debug\net6.0\DZ_54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Рабочий стол\Seminar_8_C#\DZ_54\obj\Debug\net6.0\DZ_54.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Seminar_8_C#\DZ_54\obj\Debug\net6.0\DZ_54.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\Seminar_8_C#\DZ_54\obj\Debug\net6.0\DZ_54.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Seminar_8_C#\DZ_54\obj\Debug\net6.0\DZ_54.dll
+C:\Users\aleks\OneDrive\Рабочий стол\Seminar_8_C#\DZ_54\obj\Debug\net6.0\refint\DZ_54.dll
+C:\Users\aleks\OneDrive\Рабочий стол\Seminar_8_C#\DZ_54\obj\Debug\net6.0\DZ_54.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\Seminar_8_C#\DZ_54\obj\Debug\net6.0\DZ_54.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Seminar_8_C#\DZ_54\obj\Debug\net6.0\ref\DZ_54.dll
